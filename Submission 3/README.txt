@@ -3,10 +3,10 @@
 
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF:
-https://drive.google.com/drive/search?q=Random%20Forest
+
 
 Native/original format:
-https://drive.google.com/drive/search?q=Random
+
 
 Name, Author, Edition, year, and publisher of the Book:
 Name: Understanding Machine Learning: From Theory To Algorithms
