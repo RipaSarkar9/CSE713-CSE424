@@ -2,7 +2,7 @@
 https://www.overleaf.com/9638533521vvjzkbxdcqkf
 
 Unlisted YouTube video:
-
+https://www.youtube.com/watch?v=UMzErSnAEj4
 
 Paper title:
 Analysis of Bangla locution using ML and NLP techniques.
