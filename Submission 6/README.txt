@@ -11,24 +11,25 @@ Conference submitted paper / paper submission / login Link:
 
 
 Paper title:
-A Possible Dataset of Bangla Locution
+Empowering the Analysis of Bangla Locution with Machine Learning and NLP Techniques
 
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1wBaM2KjZsGa3OR6NpWRyN6sRWKDlKQCr/edit?usp=sharing&ouid=105924141117225422858&rtpof=true&sd=true
 
 
 Paper submission date (to workshop/conference):
+05.09.2023
 
 
 Paper submission ID: (received) from conference/workshop
-
+320
 
 Conference Name:
+ICCITconf2023
 
 
 Conference URL:
-http://confsite/...
-
+https://iccit.org.bd/2023/call-for-paper/?fbclid=IwAR23TvRvYDmHCYwHr1-vw0t3Ji2u4dvu8oS3QAHJ65X5Fq_n1UUXoMRb4Xw
 
 Group Number:
 18
